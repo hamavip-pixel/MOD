@@ -22,7 +22,7 @@ static BOOL HAMAMenuVisible = NO;
     bubble.layer.shadowColor = UIColor.redColor.CGColor;
     bubble.layer.shadowOpacity = 0.55;
     bubble.layer.shadowRadius = 12;
-    [bubble setTitle:@"H⚡" forState:UIControlStateNormal];
+    [bubble setTitle:@"HAMA⚡VIP" forState:UIControlStateNormal];
     [bubble setTitleColor:UIColor.whiteColor forState:UIControlStateNormal];
     bubble.titleLabel.font = [UIFont boldSystemFontOfSize:19];
     [bubble addTarget:self action:@selector(toggleMenu) forControlEvents:UIControlEventTouchUpInside];

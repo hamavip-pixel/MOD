@@ -1,0 +1,11 @@
+{
+  "Filter": {
+    "Bundles": [
+      "com.tencent.ig",
+      "com.tencent.igce",
+      "com.pubg.krmobile",
+      "com.rekoo.pubgm",
+      "com.vng.pubgmobile"
+    ]
+  }
+}

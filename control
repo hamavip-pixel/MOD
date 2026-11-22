@@ -1,0 +1,8 @@
+Package: com.hama.vip.uionly
+Name: HAMA VIP UI
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: HAMA VIP visual menu demo. UI only; no game modification.
+Maintainer: HAMA Dev
+Author: HAMA Dev
+Section: Tweaks
